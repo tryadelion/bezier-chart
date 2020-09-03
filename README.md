@@ -36,7 +36,9 @@ You should ensure that you add the dependency in your flutter project.
 
 ```yaml
 dependencies:
-  bezier_chart: "^1.0.16"
+  bezier_chart:
+    git:
+      url: https://github.com/tryadelion/bezier-chart
 ```
 
 You should then run `flutter packages upgrade` or update your packages in IntelliJ.
