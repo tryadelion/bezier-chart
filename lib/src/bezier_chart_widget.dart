@@ -1293,7 +1293,7 @@ class _BezierChartPainter extends CustomPainter {
               dataPoints,
               paintControlPoints
                 ..style = PaintingStyle.stroke
-                ..strokeWidth = 10
+                ..strokeWidth = line.lineStrokeWidth * 2
                 ..color = line.dataPointStrokeColor);
           canvas.drawPoints(
             PointMode.points,
