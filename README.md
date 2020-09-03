@@ -6,8 +6,7 @@
 A beautiful bezier line chart widget for flutter that is highly interactive and configurable.
 
 <p>
-<a href="https://aeyrium.com/" target="_blank"><img src="https://drive.google.com/uc?id=1TP33E66rwZ6wsbaO3vw7PqrMFY2sgZxE" width="500px"
-alt="Aeyrium Inc. is a provider of innovative software solutions for the business and commercial aviation"/></a>
+<h2>Tryadelion's fork comes with a limited awrranty. it could work. it could not. who knows.</h2>
 </p>
 <p>
 <img src="https://media.giphy.com/media/4PUllVsmWsspYFYVD3/giphy.gif" alt="drawing" width="230px" hspace="5"/>  
